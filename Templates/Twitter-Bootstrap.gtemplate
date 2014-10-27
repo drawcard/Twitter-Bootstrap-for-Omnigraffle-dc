@@ -3867,7 +3867,7 @@ XSmall / Mobile (&lt;768px)}</string>
 		</dict>
 	</array>
 	<key>ModificationDate</key>
-	<string>2014-10-27 06:17:01 +0000</string>
+	<string>2014-10-27 06:29:28 +0000</string>
 	<key>Modifier</key>
 	<string>Drawcard</string>
 	<key>NotesVisible</key>
@@ -4423,7 +4423,7 @@ XSmall / Mobile (&lt;768px)}</string>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>AllLayers</key>
 			<array>
 				<string>Body</string>
@@ -4932,7 +4932,7 @@ XSmall / Mobile (&lt;768px)}</string>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>AllLayers</key>
 			<array>
 				<string>Body</string>
@@ -5928,7 +5928,7 @@ XSmall / Mobile (&lt;768px)}</string>
 		<key>BottomSlabHeight</key>
 		<real>32</real>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Small 12 Col (≥768px)  [001 - Page Title]</string>
@@ -5949,7 +5949,7 @@ XSmall / Mobile (&lt;768px)}</string>
 		<key>SmallIcons</key>
 		<true/>
 		<key>VisibleRegion</key>
-		<string>{{-247, 2}, {1011, 863}}</string>
+		<string>{{189, 0}, {1011, 863}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
